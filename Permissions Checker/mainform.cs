@@ -97,9 +97,9 @@ namespace PermissionsChecker
             @"C:\Program Files (x86)\ProjectMatrix",
             @"%LOCALAPPDATA%\ProjectMatrix",
             @"%APPDATA%\ProjectMatrix",
-        @"%LOCALAPPDATA%\CET Data",
-        @"%LOCALAPPDATA%\ProjectNotify",
-        @"C:\ProgramData\ProjectMatrix"
+            @"%LOCALAPPDATA%\CET Data",
+            @"%LOCALAPPDATA%\ProjectNotify",
+            @"C:\ProgramData\ProjectMatrix"
         };
         private string[] folderNames = new string[]
         {
